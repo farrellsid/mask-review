@@ -1,0 +1,10 @@
+# This repo is written from Windows and edited on a Mac, so without this every
+# qc.csv would show up as entirely rewritten the first time the other side
+# touched it, purely from line endings. Normalise text to LF in the repository
+# and leave the working copy alone.
+* text=auto eol=lf
+
+# Masks are binary. Never try to diff, merge or line-ending-convert them: a
+# "successful" text merge of two PNGs produces a corrupt file.
+*.png binary
+*.jpg binary
