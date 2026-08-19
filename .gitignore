@@ -1,0 +1,16 @@
+# The EM frames are deliberately NOT in git.
+#
+# They are about 1.9 GB against the 9 MB of everything else here, they never
+# change once a bundle is built, and they can be regenerated from the raw EM at
+# any time. So they travel once on a drive and get put in place with
+# place_frames.py, while git carries only the masks and metadata, which are what
+# actually change.
+#
+# If you find yourself about to commit a jpg, something has gone wrong.
+frames/
+*.jpg
+
+# Local scratch
+__pycache__/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "source_tree": "manual_verify_AIAL_AIAR",
+  "chains": [
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 0,
+      "chain_dir": "AIAL/chain_00"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 1,
+      "chain_dir": "AIAL/chain_01"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 2,
+      "chain_dir": "AIAL/chain_02"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 3,
+      "chain_dir": "AIAL/chain_03"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 4,
+      "chain_dir": "AIAL/chain_04"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 5,
+      "chain_dir": "AIAL/chain_05"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 6,
+      "chain_dir": "AIAL/chain_06"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 7,
+      "chain_dir": "AIAL/chain_07"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 8,
+      "chain_dir": "AIAL/chain_08"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 9,
+      "chain_dir": "AIAL/chain_09"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 10,
+      "chain_dir": "AIAL/chain_10"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 11,
+      "chain_dir": "AIAL/chain_11"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 12,
+      "chain_dir": "AIAL/chain_12"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 13,
+      "chain_dir": "AIAL/chain_13"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 14,
+      "chain_dir": "AIAL/chain_14"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 15,
+      "chain_dir": "AIAL/chain_15"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 16,
+      "chain_dir": "AIAL/chain_16"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 17,
+      "chain_dir": "AIAL/chain_17"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 18,
+      "chain_dir": "AIAL/chain_18"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 19,
+      "chain_dir": "AIAL/chain_19"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 20,
+      "chain_dir": "AIAL/chain_20"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 21,
+      "chain_dir": "AIAL/chain_21"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 22,
+      "chain_dir": "AIAL/chain_22"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 23,
+      "chain_dir": "AIAL/chain_23"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 24,
+      "chain_dir": "AIAL/chain_24"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 25,
+      "chain_dir": "AIAL/chain_25"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 26,
+      "chain_dir": "AIAL/chain_26"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 27,
+      "chain_dir": "AIAL/chain_27"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 28,
+      "chain_dir": "AIAL/chain_28"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 29,
+      "chain_dir": "AIAL/chain_29"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 30,
+      "chain_dir": "AIAL/chain_30"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 31,
+      "chain_dir": "AIAL/chain_31"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 32,
+      "chain_dir": "AIAL/chain_32"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 33,
+      "chain_dir": "AIAL/chain_33"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 34,
+      "chain_dir": "AIAL/chain_34"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 35,
+      "chain_dir": "AIAL/chain_35"
+    },
+    {
+      "cell_name": "AIAL",
+      "chain_idx": 36,
+      "chain_dir": "AIAL/chain_36"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 0,
+      "chain_dir": "AIAR/chain_00"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 1,
+      "chain_dir": "AIAR/chain_01"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 2,
+      "chain_dir": "AIAR/chain_02"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 3,
+      "chain_dir": "AIAR/chain_03"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 4,
+      "chain_dir": "AIAR/chain_04"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 5,
+      "chain_dir": "AIAR/chain_05"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 6,
+      "chain_dir": "AIAR/chain_06"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 7,
+      "chain_dir": "AIAR/chain_07"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 8,
+      "chain_dir": "AIAR/chain_08"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 9,
+      "chain_dir": "AIAR/chain_09"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 10,
+      "chain_dir": "AIAR/chain_10"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 11,
+      "chain_dir": "AIAR/chain_11"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 12,
+      "chain_dir": "AIAR/chain_12"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 13,
+      "chain_dir": "AIAR/chain_13"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 14,
+      "chain_dir": "AIAR/chain_14"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 15,
+      "chain_dir": "AIAR/chain_15"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 16,
+      "chain_dir": "AIAR/chain_16"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 17,
+      "chain_dir": "AIAR/chain_17"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 18,
+      "chain_dir": "AIAR/chain_18"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 19,
+      "chain_dir": "AIAR/chain_19"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 20,
+      "chain_dir": "AIAR/chain_20"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 21,
+      "chain_dir": "AIAR/chain_21"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 22,
+      "chain_dir": "AIAR/chain_22"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 23,
+      "chain_dir": "AIAR/chain_23"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 24,
+      "chain_dir": "AIAR/chain_24"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 25,
+      "chain_dir": "AIAR/chain_25"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 26,
+      "chain_dir": "AIAR/chain_26"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 27,
+      "chain_dir": "AIAR/chain_27"
+    },
+    {
+      "cell_name": "AIAR",
+      "chain_idx": 28,
+      "chain_dir": "AIAR/chain_28"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 13,
+  "cell_name": "AIYR",
+  "chain_idx": 39,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      1856.0,
+      5152.0
+    ],
+    "size_tif": [
+      1432,
+      1704
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1479,
+    1497
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "reprop_maskseed_AIY",
+    "backend": "sam2",
+    "reprop_variant": "mask_seed",
+    "exported": "2026-08-19T04:21:45+00:00"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 6,
+  "cell_name": "AIAR",
+  "chain_idx": 20,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      1512.0,
+      1904.0
+    ],
+    "size_tif": [
+      2320,
+      1864
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1446,
+    1472
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "manual_verify_AIAL_AIAR",
+    "backend": "sam2",
+    "reprop_variant": "mask_seed",
+    "exported": "2026-08-19T04:39:12+00:00"
+  }
+}
