@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 0,
+      "chain_dir": "PVCL/chain_00"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 1,
+      "chain_dir": "PVCL/chain_01"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 2,
+      "chain_dir": "PVCL/chain_02"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 3,
+      "chain_dir": "PVCL/chain_03"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 4,
+      "chain_dir": "PVCL/chain_04"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 5,
+      "chain_dir": "PVCL/chain_05"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 6,
+      "chain_dir": "PVCL/chain_06"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 7,
+      "chain_dir": "PVCL/chain_07"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 8,
+      "chain_dir": "PVCL/chain_08"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 9,
+      "chain_dir": "PVCL/chain_09"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 10,
+      "chain_dir": "PVCL/chain_10"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 11,
+      "chain_dir": "PVCL/chain_11"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 12,
+      "chain_dir": "PVCL/chain_12"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 13,
+      "chain_dir": "PVCL/chain_13"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 14,
+      "chain_dir": "PVCL/chain_14"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 15,
+      "chain_dir": "PVCL/chain_15"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 16,
+      "chain_dir": "PVCL/chain_16"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 17,
+      "chain_dir": "PVCL/chain_17"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 18,
+      "chain_dir": "PVCL/chain_18"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 19,
+      "chain_dir": "PVCL/chain_19"
+    },
+    {
+      "cell_name": "PVCL",
+      "chain_idx": 20,
+      "chain_dir": "PVCL/chain_20"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 0,
+      "chain_dir": "PVCR/chain_00"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 1,
+      "chain_dir": "PVCR/chain_01"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 2,
+      "chain_dir": "PVCR/chain_02"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 3,
+      "chain_dir": "PVCR/chain_03"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 4,
+      "chain_dir": "PVCR/chain_04"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 5,
+      "chain_dir": "PVCR/chain_05"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 6,
+      "chain_dir": "PVCR/chain_06"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 7,
+      "chain_dir": "PVCR/chain_07"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 8,
+      "chain_dir": "PVCR/chain_08"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 9,
+      "chain_dir": "PVCR/chain_09"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 10,
+      "chain_dir": "PVCR/chain_10"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 11,
+      "chain_dir": "PVCR/chain_11"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 12,
+      "chain_dir": "PVCR/chain_12"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 13,
+      "chain_dir": "PVCR/chain_13"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 14,
+      "chain_dir": "PVCR/chain_14"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 15,
+      "chain_dir": "PVCR/chain_15"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 16,
+      "chain_dir": "PVCR/chain_16"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 17,
+      "chain_dir": "PVCR/chain_17"
+    },
+    {
+      "cell_name": "PVCR",
+      "chain_idx": 18,
+      "chain_dir": "PVCR/chain_18"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 0,
+      "chain_dir": "AUAL/chain_00"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 1,
+      "chain_dir": "AUAL/chain_01"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 2,
+      "chain_dir": "AUAL/chain_02"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 3,
+      "chain_dir": "AUAL/chain_03"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 4,
+      "chain_dir": "AUAL/chain_04"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 5,
+      "chain_dir": "AUAL/chain_05"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 6,
+      "chain_dir": "AUAL/chain_06"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 7,
+      "chain_dir": "AUAL/chain_07"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 8,
+      "chain_dir": "AUAL/chain_08"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 9,
+      "chain_dir": "AUAL/chain_09"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 10,
+      "chain_dir": "AUAL/chain_10"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 11,
+      "chain_dir": "AUAL/chain_11"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 12,
+      "chain_dir": "AUAL/chain_12"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 13,
+      "chain_dir": "AUAL/chain_13"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 14,
+      "chain_dir": "AUAL/chain_14"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 15,
+      "chain_dir": "AUAL/chain_15"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 16,
+      "chain_dir": "AUAL/chain_16"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 17,
+      "chain_dir": "AUAL/chain_17"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 18,
+      "chain_dir": "AUAL/chain_18"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 19,
+      "chain_dir": "AUAL/chain_19"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 20,
+      "chain_dir": "AUAL/chain_20"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 21,
+      "chain_dir": "AUAL/chain_21"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 22,
+      "chain_dir": "AUAL/chain_22"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 23,
+      "chain_dir": "AUAL/chain_23"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 24,
+      "chain_dir": "AUAL/chain_24"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 25,
+      "chain_dir": "AUAL/chain_25"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 26,
+      "chain_dir": "AUAL/chain_26"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 27,
+      "chain_dir": "AUAL/chain_27"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 28,
+      "chain_dir": "AUAL/chain_28"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 29,
+      "chain_dir": "AUAL/chain_29"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 30,
+      "chain_dir": "AUAL/chain_30"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 31,
+      "chain_dir": "AUAL/chain_31"
+    },
+    {
+      "cell_name": "AUAL",
+      "chain_idx": 32,
+      "chain_dir": "AUAL/chain_32"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 0,
+      "chain_dir": "AUAR/chain_00"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 1,
+      "chain_dir": "AUAR/chain_01"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 2,
+      "chain_dir": "AUAR/chain_02"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 3,
+      "chain_dir": "AUAR/chain_03"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 4,
+      "chain_dir": "AUAR/chain_04"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 5,
+      "chain_dir": "AUAR/chain_05"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 6,
+      "chain_dir": "AUAR/chain_06"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 7,
+      "chain_dir": "AUAR/chain_07"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 8,
+      "chain_dir": "AUAR/chain_08"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 9,
+      "chain_dir": "AUAR/chain_09"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 10,
+      "chain_dir": "AUAR/chain_10"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 11,
+      "chain_dir": "AUAR/chain_11"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 12,
+      "chain_dir": "AUAR/chain_12"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 13,
+      "chain_dir": "AUAR/chain_13"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 14,
+      "chain_dir": "AUAR/chain_14"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 15,
+      "chain_dir": "AUAR/chain_15"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 16,
+      "chain_dir": "AUAR/chain_16"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 17,
+      "chain_dir": "AUAR/chain_17"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 18,
+      "chain_dir": "AUAR/chain_18"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 19,
+      "chain_dir": "AUAR/chain_19"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 20,
+      "chain_dir": "AUAR/chain_20"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 21,
+      "chain_dir": "AUAR/chain_21"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 22,
+      "chain_dir": "AUAR/chain_22"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 23,
+      "chain_dir": "AUAR/chain_23"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 24,
+      "chain_dir": "AUAR/chain_24"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 25,
+      "chain_dir": "AUAR/chain_25"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 26,
+      "chain_dir": "AUAR/chain_26"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 27,
+      "chain_dir": "AUAR/chain_27"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 28,
+      "chain_dir": "AUAR/chain_28"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 29,
+      "chain_dir": "AUAR/chain_29"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 30,
+      "chain_dir": "AUAR/chain_30"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 31,
+      "chain_dir": "AUAR/chain_31"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 32,
+      "chain_dir": "AUAR/chain_32"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 33,
+      "chain_dir": "AUAR/chain_33"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 34,
+      "chain_dir": "AUAR/chain_34"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 35,
+      "chain_dir": "AUAR/chain_35"
+    },
+    {
+      "cell_name": "AUAR",
+      "chain_idx": 36,
+      "chain_dir": "AUAR/chain_36"
+    }
+  ]
+}

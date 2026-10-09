@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 23,
+  "cell_name": "AUAL",
+  "chain_idx": 9,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      6016.0,
+      3496.0
+    ],
+    "size_tif": [
+      1408,
+      1472
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1451,
+    1452
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:01:53+00:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "CANR",
+      "chain_idx": 0,
+      "chain_dir": "CANR/chain_00"
+    }
+  ]
+}

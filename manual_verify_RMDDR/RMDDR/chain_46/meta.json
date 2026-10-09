@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 143,
+  "cell_name": "RMDDR",
+  "chain_idx": 46,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      2792.0,
+      2128.0
+    ],
+    "size_tif": [
+      3640,
+      2600
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1343,
+    1344
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:07:05+00:00"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 4,
+  "cell_name": "ADAR",
+  "chain_idx": 45,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3776.0,
+      1784.0
+    ],
+    "size_tif": [
+      1232,
+      1160
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1392,
+    1393
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:00:25+00:00"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "neuron": "SMDDL",
+  "chain_idx": 12,
+  "status": "flagged",
+  "anchor_node_id": 25468311,
+  "anchor_catmaid_z": 1410,
+  "anchor_frame_idx": 34,
+  "prompts": {
+    "points_sam": [
+      [
+        943.7387093333336,
+        800.9322619999997
+      ],
+      [
+        923.3797193333336,
+        848.8173620000001
+      ],
+      [
+        955.1244875000002,
+        864.8110841666663
+      ],
+      [
+        880.2326141666668,
+        769.5615308333332
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      901.0,
+      749.0,
+      989.0,
+      858.0
+    ]
+  },
+  "image_score": 0.8627787232398987,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 1,
+    "largest_cc_frac": 1.0,
+    "area_frac": 0.0007298745707676614,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1376,
+    "1": 1377,
+    "2": 1378,
+    "3": 1379,
+    "4": 1380,
+    "5": 1381,
+    "6": 1382,
+    "7": 1383,
+    "8": 1384,
+    "9": 1385,
+    "10": 1386,
+    "11": 1387,
+    "12": 1388,
+    "13": 1389,
+    "14": 1390,
+    "15": 1391,
+    "16": 1392,
+    "17": 1393,
+    "18": 1394,
+    "19": 1395,
+    "20": 1396,
+    "21": 1397,
+    "22": 1398,
+    "23": 1399,
+    "24": 1400,
+    "25": 1401,
+    "26": 1402,
+    "27": 1403,
+    "28": 1404,
+    "29": 1405,
+    "30": 1406,
+    "31": 1407,
+    "32": 1408,
+    "33": 1409,
+    "34": 1410,
+    "35": 1411,
+    "36": 1412,
+    "37": 1413,
+    "38": 1414,
+    "39": 1415,
+    "40": 1416,
+    "41": 1417,
+    "42": 1418,
+    "43": 1419,
+    "44": 1420,
+    "45": 1421,
+    "46": 1422,
+    "47": 1423,
+    "48": 1424,
+    "49": 1425,
+    "50": 1426,
+    "51": 1427,
+    "52": 1428,
+    "53": 1429,
+    "54": 1430,
+    "55": 1431,
+    "56": 1432,
+    "57": 1433,
+    "58": 1434,
+    "59": 1435,
+    "60": 1436,
+    "61": 1437,
+    "62": 1438,
+    "63": 1439,
+    "64": 1440,
+    "65": 1441,
+    "66": 1442,
+    "67": 1443,
+    "68": 1444
+  },
+  "n_frames": 69,
+  "crop_window": {
+    "origin_tif": [
+      3552.0,
+      1896.0
+    ],
+    "size_tif": [
+      3424,
+      4576
+    ],
+    "crop_scale": 3,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 69,
+    "n_flagged": 21,
+    "n_queue": 8,
+    "n_intervene": 21,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.3043,
+    "queue_rate": 0.1159,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1377,
+        "flag_count": 2,
+        "area_ratio": 2.103,
+        "temporal_iou": 0.105,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1381,
+        "flag_count": 2,
+        "area_ratio": 2.639,
+        "temporal_iou": 0.165,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1383,
+        "flag_count": 2,
+        "area_ratio": 0.364,
+        "temporal_iou": 0.057,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1385,
+        "flag_count": 2,
+        "area_ratio": 0.323,
+        "temporal_iou": 0.186,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1386,
+        "flag_count": 2,
+        "area_ratio": 4.286,
+        "temporal_iou": 0.201,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1406,
+        "flag_count": 2,
+        "area_ratio": 0.311,
+        "temporal_iou": 0.261,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1443,
+        "flag_count": 2,
+        "area_ratio": 0.436,
+        "temporal_iou": 0.0,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1444,
+        "flag_count": 2,
+        "area_ratio": 2.622,
+        "temporal_iou": 0.078,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1377,
+    1381,
+    1383,
+    1385,
+    1386,
+    1406,
+    1443,
+    1444
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_2",
+    "frames_root": "/localscratch/fsid.66218131.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.0051302677020430565,
+    "load anchor frame": 0.8390244161710143,
+    "build prompts": 0.007926242426037788,
+    "image-mode prediction": 0.3890690868720412,
+    "box from mask": 0.21344797033816576,
+    "prepare video frames": 3.3150347424671054,
+    "per-slice re-seed": 26.373851283453405,
+    "save masks": 0.5992439789697528,
+    "qc + flag": 1.3134030122309923
+  },
+  "phase_subseconds": {}
+}

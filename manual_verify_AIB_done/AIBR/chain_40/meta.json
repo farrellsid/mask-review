@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 8,
+  "cell_name": "AIBR",
+  "chain_idx": 40,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      5512.0,
+      2040.0
+    ],
+    "size_tif": [
+      1408,
+      1272
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1373,
+    1377
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:00:46+00:00"
+  }
+}

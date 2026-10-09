@@ -1,0 +1,172 @@
+{
+  "neuron": "AIBL",
+  "chain_idx": 25,
+  "status": "done",
+  "anchor_node_id": 25457667,
+  "anchor_catmaid_z": 1438,
+  "anchor_frame_idx": 4,
+  "prompts": {
+    "points_sam": [
+      [
+        638.5026525000003,
+        682.8431624999994
+      ],
+      [
+        544.4110875000006,
+        748.8167874999995
+      ],
+      [
+        517.279157500001,
+        639.9105774999998
+      ],
+      [
+        410.98438140000053,
+        770.2744917999994
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      499.0,
+      542.0,
+      810.0,
+      866.0
+    ]
+  },
+  "image_score": 0.9079452753067017,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 1,
+    "largest_cc_frac": 1.0,
+    "area_frac": 0.006582264063573626,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1434,
+    "1": 1435,
+    "2": 1436,
+    "3": 1437,
+    "4": 1438,
+    "5": 1439,
+    "6": 1440,
+    "7": 1441,
+    "8": 1442
+  },
+  "n_frames": 9,
+  "crop_window": {
+    "origin_tif": [
+      5240.0,
+      2088.0
+    ],
+    "size_tif": [
+      1496,
+      1432
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 9,
+    "n_flagged": 1,
+    "n_queue": 0,
+    "n_intervene": 1,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.1111,
+    "queue_rate": 0.0,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": []
+  },
+  "triage_frames": [],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_15",
+    "frames_root": "/localscratch/fsid.66224755.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.005289957160130143,
+    "load anchor frame": 0.3227872948627919,
+    "build prompts": 0.007775339065119624,
+    "image-mode prediction": 0.3478238570969552,
+    "box from mask": 0.1929108698386699,
+    "prepare video frames": 0.2536373601760715,
+    "per-slice re-seed": 3.4719799128361046,
+    "save masks": 0.17154312715865672,
+    "qc + flag": 0.2407565019093454
+  },
+  "phase_subseconds": {}
+}

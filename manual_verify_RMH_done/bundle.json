@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 0,
+      "chain_dir": "RMHL/chain_00"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 1,
+      "chain_dir": "RMHL/chain_01"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 2,
+      "chain_dir": "RMHL/chain_02"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 3,
+      "chain_dir": "RMHL/chain_03"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 4,
+      "chain_dir": "RMHL/chain_04"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 5,
+      "chain_dir": "RMHL/chain_05"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 6,
+      "chain_dir": "RMHL/chain_06"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 7,
+      "chain_dir": "RMHL/chain_07"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 8,
+      "chain_dir": "RMHL/chain_08"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 9,
+      "chain_dir": "RMHL/chain_09"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 10,
+      "chain_dir": "RMHL/chain_10"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 11,
+      "chain_dir": "RMHL/chain_11"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 12,
+      "chain_dir": "RMHL/chain_12"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 13,
+      "chain_dir": "RMHL/chain_13"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 14,
+      "chain_dir": "RMHL/chain_14"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 15,
+      "chain_dir": "RMHL/chain_15"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 16,
+      "chain_dir": "RMHL/chain_16"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 17,
+      "chain_dir": "RMHL/chain_17"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 18,
+      "chain_dir": "RMHL/chain_18"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 19,
+      "chain_dir": "RMHL/chain_19"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 20,
+      "chain_dir": "RMHL/chain_20"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 21,
+      "chain_dir": "RMHL/chain_21"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 22,
+      "chain_dir": "RMHL/chain_22"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 23,
+      "chain_dir": "RMHL/chain_23"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 24,
+      "chain_dir": "RMHL/chain_24"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 25,
+      "chain_dir": "RMHL/chain_25"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 26,
+      "chain_dir": "RMHL/chain_26"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 27,
+      "chain_dir": "RMHL/chain_27"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 28,
+      "chain_dir": "RMHL/chain_28"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 29,
+      "chain_dir": "RMHL/chain_29"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 30,
+      "chain_dir": "RMHL/chain_30"
+    },
+    {
+      "cell_name": "RMHL",
+      "chain_idx": 31,
+      "chain_dir": "RMHL/chain_31"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 0,
+      "chain_dir": "RMHR/chain_00"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 1,
+      "chain_dir": "RMHR/chain_01"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 2,
+      "chain_dir": "RMHR/chain_02"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 3,
+      "chain_dir": "RMHR/chain_03"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 4,
+      "chain_dir": "RMHR/chain_04"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 5,
+      "chain_dir": "RMHR/chain_05"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 6,
+      "chain_dir": "RMHR/chain_06"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 7,
+      "chain_dir": "RMHR/chain_07"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 8,
+      "chain_dir": "RMHR/chain_08"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 9,
+      "chain_dir": "RMHR/chain_09"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 10,
+      "chain_dir": "RMHR/chain_10"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 11,
+      "chain_dir": "RMHR/chain_11"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 12,
+      "chain_dir": "RMHR/chain_12"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 13,
+      "chain_dir": "RMHR/chain_13"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 14,
+      "chain_dir": "RMHR/chain_14"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 15,
+      "chain_dir": "RMHR/chain_15"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 16,
+      "chain_dir": "RMHR/chain_16"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 17,
+      "chain_dir": "RMHR/chain_17"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 18,
+      "chain_dir": "RMHR/chain_18"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 19,
+      "chain_dir": "RMHR/chain_19"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 20,
+      "chain_dir": "RMHR/chain_20"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 21,
+      "chain_dir": "RMHR/chain_21"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 22,
+      "chain_dir": "RMHR/chain_22"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 23,
+      "chain_dir": "RMHR/chain_23"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 24,
+      "chain_dir": "RMHR/chain_24"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 25,
+      "chain_dir": "RMHR/chain_25"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 26,
+      "chain_dir": "RMHR/chain_26"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 27,
+      "chain_dir": "RMHR/chain_27"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 28,
+      "chain_dir": "RMHR/chain_28"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 29,
+      "chain_dir": "RMHR/chain_29"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 30,
+      "chain_dir": "RMHR/chain_30"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 31,
+      "chain_dir": "RMHR/chain_31"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 32,
+      "chain_dir": "RMHR/chain_32"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 33,
+      "chain_dir": "RMHR/chain_33"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 34,
+      "chain_dir": "RMHR/chain_34"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 35,
+      "chain_dir": "RMHR/chain_35"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 36,
+      "chain_dir": "RMHR/chain_36"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 37,
+      "chain_dir": "RMHR/chain_37"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 38,
+      "chain_dir": "RMHR/chain_38"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 39,
+      "chain_dir": "RMHR/chain_39"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 40,
+      "chain_dir": "RMHR/chain_40"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 41,
+      "chain_dir": "RMHR/chain_41"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 42,
+      "chain_dir": "RMHR/chain_42"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 43,
+      "chain_dir": "RMHR/chain_43"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 44,
+      "chain_dir": "RMHR/chain_44"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 45,
+      "chain_dir": "RMHR/chain_45"
+    },
+    {
+      "cell_name": "RMHR",
+      "chain_idx": 46,
+      "chain_dir": "RMHR/chain_46"
+    }
+  ]
+}

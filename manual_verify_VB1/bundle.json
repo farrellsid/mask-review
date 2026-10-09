@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "VB1",
+      "chain_idx": 0,
+      "chain_dir": "VB1/chain_00"
+    },
+    {
+      "cell_name": "VB1",
+      "chain_idx": 1,
+      "chain_dir": "VB1/chain_01"
+    }
+  ]
+}

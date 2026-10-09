@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 175,
+  "cell_name": "SMBDL",
+  "chain_idx": 9,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3740.0,
+      2048.0
+    ],
+    "size_tif": [
+      3396,
+      5272
+    ],
+    "crop_scale": 3,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1398,
+    1511
+  ],
+  "mask_scale": 3,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:09:29+00:00"
+  }
+}

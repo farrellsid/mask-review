@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 187,
+  "cell_name": "URBL",
+  "chain_idx": 2,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      5152.0,
+      2864.0
+    ],
+    "size_tif": [
+      1544,
+      1640
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1459,
+    1463
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:10:10+00:00"
+  }
+}

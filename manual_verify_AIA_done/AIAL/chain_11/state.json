@@ -1,0 +1,177 @@
+{
+  "neuron": "AIAL",
+  "chain_idx": 11,
+  "status": "flagged",
+  "anchor_node_id": 25450351,
+  "anchor_catmaid_z": 1469,
+  "anchor_frame_idx": 1,
+  "prompts": {
+    "points_sam": [
+      [
+        694.3049175000015,
+        740.979697499999
+      ],
+      [
+        579.2347824999997,
+        771.4511725000002
+      ],
+      [
+        774.9785664999999,
+        839.7377704999999
+      ],
+      [
+        732.2303600000014,
+        416.6255866666661
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      571.0,
+      574.0,
+      815.0,
+      884.0
+    ]
+  },
+  "image_score": 0.8120846748352051,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 1,
+    "largest_cc_frac": 1.0,
+    "area_frac": 0.004116374559082893,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1468,
+    "1": 1469,
+    "2": 1470,
+    "3": 1471
+  },
+  "n_frames": 4,
+  "crop_window": {
+    "origin_tif": [
+      6232.0,
+      4176.0
+    ],
+    "size_tif": [
+      1296,
+      1344
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 4,
+    "n_flagged": 3,
+    "n_queue": 1,
+    "n_intervene": 3,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.75,
+    "queue_rate": 0.25,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1471,
+        "flag_count": 2,
+        "area_ratio": 0.076,
+        "temporal_iou": 0.076,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1471
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_4",
+    "frames_root": "/localscratch/fsid.66218133.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.005327132530510426,
+    "load anchor frame": 0.2633986445143819,
+    "build prompts": 0.007235531695187092,
+    "image-mode prediction": 0.3466529380530119,
+    "box from mask": 0.19141201302409172,
+    "prepare video frames": 0.0818486949428916,
+    "per-slice re-seed": 1.5015674894675612,
+    "save masks": 0.014067121781408787,
+    "qc + flag": 0.089611129835248
+  },
+  "phase_subseconds": {}
+}

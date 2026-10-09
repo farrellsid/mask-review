@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 132,
+  "cell_name": "RIGR",
+  "chain_idx": 26,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      1432.0,
+      1992.0
+    ],
+    "size_tif": [
+      1688,
+      1600
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1396,
+    1402
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:05:43+00:00"
+  }
+}

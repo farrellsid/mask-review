@@ -1,0 +1,266 @@
+{
+  "neuron": "URYVL",
+  "chain_idx": 7,
+  "status": "flagged",
+  "anchor_node_id": 25441698,
+  "anchor_catmaid_z": 1402,
+  "anchor_frame_idx": 9,
+  "prompts": {
+    "points_sam": [
+      [
+        852.7568570000003,
+        929.1845089999997
+      ],
+      [
+        907.4625960000003,
+        1083.5726919999997
+      ],
+      [
+        1058.022594,
+        1034.6911879999998
+      ],
+      [
+        861.1663670000007,
+        680.2003789999999
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      377.0,
+      663.0,
+      1333.0,
+      1123.0
+    ]
+  },
+  "image_score": 0.2630597651004791,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 19,
+    "largest_cc_frac": 0.9965104878368884,
+    "area_frac": 0.045033083572525195,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1393,
+    "1": 1394,
+    "2": 1395,
+    "3": 1396,
+    "4": 1397,
+    "5": 1398,
+    "6": 1399,
+    "7": 1400,
+    "8": 1401,
+    "9": 1402,
+    "10": 1403,
+    "11": 1404,
+    "12": 1405,
+    "13": 1406,
+    "14": 1407,
+    "15": 1408,
+    "16": 1409,
+    "17": 1410,
+    "18": 1411,
+    "19": 1412
+  },
+  "n_frames": 20,
+  "crop_window": {
+    "origin_tif": [
+      4280.0,
+      5656.0
+    ],
+    "size_tif": [
+      1704,
+      1688
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 20,
+    "n_flagged": 15,
+    "n_queue": 11,
+    "n_intervene": 15,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.75,
+    "queue_rate": 0.55,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1395,
+        "flag_count": 3,
+        "area_ratio": 2.2,
+        "temporal_iou": 0.112,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1397,
+        "flag_count": 3,
+        "area_ratio": 0.019,
+        "temporal_iou": 0.019,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1403,
+        "flag_count": 3,
+        "area_ratio": 0.01,
+        "temporal_iou": 0.01,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1410,
+        "flag_count": 3,
+        "area_ratio": 0.024,
+        "temporal_iou": 0.024,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1411,
+        "flag_count": 3,
+        "area_ratio": 86.32,
+        "temporal_iou": 0.012,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1409,
+        "flag_count": 3,
+        "area_ratio": 77.249,
+        "temporal_iou": 0.013,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1398,
+        "flag_count": 2,
+        "area_ratio": 118.632,
+        "temporal_iou": 0.008,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1407,
+        "flag_count": 2,
+        "area_ratio": 0.005,
+        "temporal_iou": 0.005,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1404,
+        "flag_count": 2,
+        "area_ratio": 34.044,
+        "temporal_iou": 0.029,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1399,
+        "flag_count": 2,
+        "area_ratio": 0.745,
+        "temporal_iou": 0.27,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1395,
+    1397,
+    1398,
+    1399,
+    1403,
+    1404,
+    1407,
+    1408,
+    1409,
+    1410,
+    1411
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_5",
+    "frames_root": "/localscratch/fsid.66218134.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.005647136829793453,
+    "load anchor frame": 0.42405578307807446,
+    "build prompts": 0.007150793448090553,
+    "image-mode prediction": 0.361536449752748,
+    "box from mask": 0.25396039243787527,
+    "prepare video frames": 0.5460934583097696,
+    "per-slice re-seed": 7.852361367084086,
+    "save masks": 0.09140233602374792,
+    "qc + flag": 0.6837771674618125
+  },
+  "phase_subseconds": {}
+}

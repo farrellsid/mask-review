@@ -1,0 +1,651 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 0,
+      "chain_dir": "RMDL/chain_00"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 1,
+      "chain_dir": "RMDL/chain_01"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 2,
+      "chain_dir": "RMDL/chain_02"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 3,
+      "chain_dir": "RMDL/chain_03"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 4,
+      "chain_dir": "RMDL/chain_04"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 5,
+      "chain_dir": "RMDL/chain_05"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 6,
+      "chain_dir": "RMDL/chain_06"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 7,
+      "chain_dir": "RMDL/chain_07"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 8,
+      "chain_dir": "RMDL/chain_08"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 9,
+      "chain_dir": "RMDL/chain_09"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 10,
+      "chain_dir": "RMDL/chain_10"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 11,
+      "chain_dir": "RMDL/chain_11"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 12,
+      "chain_dir": "RMDL/chain_12"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 13,
+      "chain_dir": "RMDL/chain_13"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 14,
+      "chain_dir": "RMDL/chain_14"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 15,
+      "chain_dir": "RMDL/chain_15"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 16,
+      "chain_dir": "RMDL/chain_16"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 17,
+      "chain_dir": "RMDL/chain_17"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 18,
+      "chain_dir": "RMDL/chain_18"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 19,
+      "chain_dir": "RMDL/chain_19"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 20,
+      "chain_dir": "RMDL/chain_20"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 21,
+      "chain_dir": "RMDL/chain_21"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 22,
+      "chain_dir": "RMDL/chain_22"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 23,
+      "chain_dir": "RMDL/chain_23"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 24,
+      "chain_dir": "RMDL/chain_24"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 25,
+      "chain_dir": "RMDL/chain_25"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 26,
+      "chain_dir": "RMDL/chain_26"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 27,
+      "chain_dir": "RMDL/chain_27"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 28,
+      "chain_dir": "RMDL/chain_28"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 29,
+      "chain_dir": "RMDL/chain_29"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 30,
+      "chain_dir": "RMDL/chain_30"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 31,
+      "chain_dir": "RMDL/chain_31"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 32,
+      "chain_dir": "RMDL/chain_32"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 33,
+      "chain_dir": "RMDL/chain_33"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 34,
+      "chain_dir": "RMDL/chain_34"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 35,
+      "chain_dir": "RMDL/chain_35"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 36,
+      "chain_dir": "RMDL/chain_36"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 37,
+      "chain_dir": "RMDL/chain_37"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 38,
+      "chain_dir": "RMDL/chain_38"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 39,
+      "chain_dir": "RMDL/chain_39"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 40,
+      "chain_dir": "RMDL/chain_40"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 41,
+      "chain_dir": "RMDL/chain_41"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 42,
+      "chain_dir": "RMDL/chain_42"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 43,
+      "chain_dir": "RMDL/chain_43"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 44,
+      "chain_dir": "RMDL/chain_44"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 45,
+      "chain_dir": "RMDL/chain_45"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 46,
+      "chain_dir": "RMDL/chain_46"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 47,
+      "chain_dir": "RMDL/chain_47"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 48,
+      "chain_dir": "RMDL/chain_48"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 49,
+      "chain_dir": "RMDL/chain_49"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 50,
+      "chain_dir": "RMDL/chain_50"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 51,
+      "chain_dir": "RMDL/chain_51"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 52,
+      "chain_dir": "RMDL/chain_52"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 53,
+      "chain_dir": "RMDL/chain_53"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 54,
+      "chain_dir": "RMDL/chain_54"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 55,
+      "chain_dir": "RMDL/chain_55"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 56,
+      "chain_dir": "RMDL/chain_56"
+    },
+    {
+      "cell_name": "RMDL",
+      "chain_idx": 57,
+      "chain_dir": "RMDL/chain_57"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 0,
+      "chain_dir": "RMDR/chain_00"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 1,
+      "chain_dir": "RMDR/chain_01"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 2,
+      "chain_dir": "RMDR/chain_02"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 3,
+      "chain_dir": "RMDR/chain_03"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 4,
+      "chain_dir": "RMDR/chain_04"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 5,
+      "chain_dir": "RMDR/chain_05"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 6,
+      "chain_dir": "RMDR/chain_06"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 7,
+      "chain_dir": "RMDR/chain_07"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 8,
+      "chain_dir": "RMDR/chain_08"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 9,
+      "chain_dir": "RMDR/chain_09"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 10,
+      "chain_dir": "RMDR/chain_10"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 11,
+      "chain_dir": "RMDR/chain_11"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 12,
+      "chain_dir": "RMDR/chain_12"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 13,
+      "chain_dir": "RMDR/chain_13"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 14,
+      "chain_dir": "RMDR/chain_14"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 15,
+      "chain_dir": "RMDR/chain_15"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 16,
+      "chain_dir": "RMDR/chain_16"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 17,
+      "chain_dir": "RMDR/chain_17"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 18,
+      "chain_dir": "RMDR/chain_18"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 19,
+      "chain_dir": "RMDR/chain_19"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 20,
+      "chain_dir": "RMDR/chain_20"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 21,
+      "chain_dir": "RMDR/chain_21"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 22,
+      "chain_dir": "RMDR/chain_22"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 23,
+      "chain_dir": "RMDR/chain_23"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 24,
+      "chain_dir": "RMDR/chain_24"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 25,
+      "chain_dir": "RMDR/chain_25"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 26,
+      "chain_dir": "RMDR/chain_26"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 27,
+      "chain_dir": "RMDR/chain_27"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 28,
+      "chain_dir": "RMDR/chain_28"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 29,
+      "chain_dir": "RMDR/chain_29"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 30,
+      "chain_dir": "RMDR/chain_30"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 31,
+      "chain_dir": "RMDR/chain_31"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 32,
+      "chain_dir": "RMDR/chain_32"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 33,
+      "chain_dir": "RMDR/chain_33"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 34,
+      "chain_dir": "RMDR/chain_34"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 35,
+      "chain_dir": "RMDR/chain_35"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 36,
+      "chain_dir": "RMDR/chain_36"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 37,
+      "chain_dir": "RMDR/chain_37"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 38,
+      "chain_dir": "RMDR/chain_38"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 39,
+      "chain_dir": "RMDR/chain_39"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 40,
+      "chain_dir": "RMDR/chain_40"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 41,
+      "chain_dir": "RMDR/chain_41"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 42,
+      "chain_dir": "RMDR/chain_42"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 43,
+      "chain_dir": "RMDR/chain_43"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 44,
+      "chain_dir": "RMDR/chain_44"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 45,
+      "chain_dir": "RMDR/chain_45"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 46,
+      "chain_dir": "RMDR/chain_46"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 47,
+      "chain_dir": "RMDR/chain_47"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 48,
+      "chain_dir": "RMDR/chain_48"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 49,
+      "chain_dir": "RMDR/chain_49"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 50,
+      "chain_dir": "RMDR/chain_50"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 51,
+      "chain_dir": "RMDR/chain_51"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 52,
+      "chain_dir": "RMDR/chain_52"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 53,
+      "chain_dir": "RMDR/chain_53"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 54,
+      "chain_dir": "RMDR/chain_54"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 55,
+      "chain_dir": "RMDR/chain_55"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 56,
+      "chain_dir": "RMDR/chain_56"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 57,
+      "chain_dir": "RMDR/chain_57"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 58,
+      "chain_dir": "RMDR/chain_58"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 59,
+      "chain_dir": "RMDR/chain_59"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 60,
+      "chain_dir": "RMDR/chain_60"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 61,
+      "chain_dir": "RMDR/chain_61"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 62,
+      "chain_dir": "RMDR/chain_62"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 63,
+      "chain_dir": "RMDR/chain_63"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 64,
+      "chain_dir": "RMDR/chain_64"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 65,
+      "chain_dir": "RMDR/chain_65"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 66,
+      "chain_dir": "RMDR/chain_66"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 67,
+      "chain_dir": "RMDR/chain_67"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 68,
+      "chain_dir": "RMDR/chain_68"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 69,
+      "chain_dir": "RMDR/chain_69"
+    },
+    {
+      "cell_name": "RMDR",
+      "chain_idx": 70,
+      "chain_dir": "RMDR/chain_70"
+    }
+  ]
+}

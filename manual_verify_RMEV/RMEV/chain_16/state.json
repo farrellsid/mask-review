@@ -1,0 +1,192 @@
+{
+  "neuron": "RMEV",
+  "chain_idx": 16,
+  "status": "flagged",
+  "anchor_node_id": 25420349,
+  "anchor_catmaid_z": 1391,
+  "anchor_frame_idx": 2,
+  "prompts": {
+    "points_sam": [
+      [
+        522.5554275000001,
+        784.0933674999999
+      ],
+      [
+        559.6205275000001,
+        755.9972674999999
+      ],
+      [
+        511.94342773124987,
+        722.4999653062499
+      ],
+      [
+        570.756183125,
+        738.059238125
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      463.5,
+      709.125,
+      595.0,
+      858.875
+    ]
+  },
+  "image_score": 0.10504300892353058,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 799,
+    "largest_cc_frac": 0.8023694704215846,
+    "area_frac": 0.312775,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1389,
+    "1": 1390,
+    "2": 1391,
+    "3": 1392,
+    "4": 1393
+  },
+  "n_frames": 5,
+  "crop_window": null,
+  "fell_back_to_sam": true,
+  "fellback_reason": "gate(frag)",
+  "crop_image_score": 0.09301326423883438,
+  "crop_anchor_score": {
+    "contained": true,
+    "n_components": 860,
+    "largest_cc_frac": 0.7852077132807459,
+    "area_frac": 0.21795953547450553,
+    "passed": false,
+    "reasons": [
+      "frag"
+    ]
+  },
+  "qc_summary": {
+    "n_frames": 5,
+    "n_flagged": 4,
+    "n_queue": 3,
+    "n_intervene": 4,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.8,
+    "queue_rate": 0.6,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1390,
+        "flag_count": 2,
+        "area_ratio": 2.95,
+        "temporal_iou": 0.281,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1392,
+        "flag_count": 2,
+        "area_ratio": 3.069,
+        "temporal_iou": 0.093,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1393,
+        "flag_count": 2,
+        "area_ratio": 2.619,
+        "temporal_iou": 0.281,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1390,
+    1392,
+    1393
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_12",
+    "frames_root": "/localscratch/fsid.66223780.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.0052214451134204865,
+    "load anchor frame": 0.22671116422861814,
+    "build prompts": 0.008692841045558453,
+    "image-mode prediction": 0.3459651805460453,
+    "box from mask": 0.2226423416286707,
+    "prepare video frames": 0.026091016829013824,
+    "per-slice re-seed": 1.8363940427079797,
+    "save masks": 0.15783878974616528,
+    "qc + flag": 0.08416390884667635
+  },
+  "phase_subseconds": {}
+}

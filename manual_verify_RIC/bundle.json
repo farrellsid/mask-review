@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "RICL",
+      "chain_idx": 0,
+      "chain_dir": "RICL/chain_00"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 1,
+      "chain_dir": "RICL/chain_01"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 2,
+      "chain_dir": "RICL/chain_02"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 3,
+      "chain_dir": "RICL/chain_03"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 4,
+      "chain_dir": "RICL/chain_04"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 5,
+      "chain_dir": "RICL/chain_05"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 6,
+      "chain_dir": "RICL/chain_06"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 7,
+      "chain_dir": "RICL/chain_07"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 8,
+      "chain_dir": "RICL/chain_08"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 9,
+      "chain_dir": "RICL/chain_09"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 10,
+      "chain_dir": "RICL/chain_10"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 11,
+      "chain_dir": "RICL/chain_11"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 12,
+      "chain_dir": "RICL/chain_12"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 13,
+      "chain_dir": "RICL/chain_13"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 14,
+      "chain_dir": "RICL/chain_14"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 15,
+      "chain_dir": "RICL/chain_15"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 16,
+      "chain_dir": "RICL/chain_16"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 17,
+      "chain_dir": "RICL/chain_17"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 18,
+      "chain_dir": "RICL/chain_18"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 19,
+      "chain_dir": "RICL/chain_19"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 20,
+      "chain_dir": "RICL/chain_20"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 21,
+      "chain_dir": "RICL/chain_21"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 22,
+      "chain_dir": "RICL/chain_22"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 23,
+      "chain_dir": "RICL/chain_23"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 24,
+      "chain_dir": "RICL/chain_24"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 25,
+      "chain_dir": "RICL/chain_25"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 26,
+      "chain_dir": "RICL/chain_26"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 27,
+      "chain_dir": "RICL/chain_27"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 28,
+      "chain_dir": "RICL/chain_28"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 29,
+      "chain_dir": "RICL/chain_29"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 30,
+      "chain_dir": "RICL/chain_30"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 31,
+      "chain_dir": "RICL/chain_31"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 32,
+      "chain_dir": "RICL/chain_32"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 33,
+      "chain_dir": "RICL/chain_33"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 34,
+      "chain_dir": "RICL/chain_34"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 35,
+      "chain_dir": "RICL/chain_35"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 36,
+      "chain_dir": "RICL/chain_36"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 37,
+      "chain_dir": "RICL/chain_37"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 38,
+      "chain_dir": "RICL/chain_38"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 39,
+      "chain_dir": "RICL/chain_39"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 40,
+      "chain_dir": "RICL/chain_40"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 41,
+      "chain_dir": "RICL/chain_41"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 42,
+      "chain_dir": "RICL/chain_42"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 43,
+      "chain_dir": "RICL/chain_43"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 44,
+      "chain_dir": "RICL/chain_44"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 45,
+      "chain_dir": "RICL/chain_45"
+    },
+    {
+      "cell_name": "RICL",
+      "chain_idx": 46,
+      "chain_dir": "RICL/chain_46"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 0,
+      "chain_dir": "RICR/chain_00"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 1,
+      "chain_dir": "RICR/chain_01"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 2,
+      "chain_dir": "RICR/chain_02"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 3,
+      "chain_dir": "RICR/chain_03"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 4,
+      "chain_dir": "RICR/chain_04"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 5,
+      "chain_dir": "RICR/chain_05"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 6,
+      "chain_dir": "RICR/chain_06"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 7,
+      "chain_dir": "RICR/chain_07"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 8,
+      "chain_dir": "RICR/chain_08"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 9,
+      "chain_dir": "RICR/chain_09"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 10,
+      "chain_dir": "RICR/chain_10"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 11,
+      "chain_dir": "RICR/chain_11"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 12,
+      "chain_dir": "RICR/chain_12"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 13,
+      "chain_dir": "RICR/chain_13"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 14,
+      "chain_dir": "RICR/chain_14"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 15,
+      "chain_dir": "RICR/chain_15"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 16,
+      "chain_dir": "RICR/chain_16"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 17,
+      "chain_dir": "RICR/chain_17"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 18,
+      "chain_dir": "RICR/chain_18"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 19,
+      "chain_dir": "RICR/chain_19"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 20,
+      "chain_dir": "RICR/chain_20"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 21,
+      "chain_dir": "RICR/chain_21"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 22,
+      "chain_dir": "RICR/chain_22"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 23,
+      "chain_dir": "RICR/chain_23"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 24,
+      "chain_dir": "RICR/chain_24"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 25,
+      "chain_dir": "RICR/chain_25"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 26,
+      "chain_dir": "RICR/chain_26"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 27,
+      "chain_dir": "RICR/chain_27"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 28,
+      "chain_dir": "RICR/chain_28"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 29,
+      "chain_dir": "RICR/chain_29"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 30,
+      "chain_dir": "RICR/chain_30"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 31,
+      "chain_dir": "RICR/chain_31"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 32,
+      "chain_dir": "RICR/chain_32"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 33,
+      "chain_dir": "RICR/chain_33"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 34,
+      "chain_dir": "RICR/chain_34"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 35,
+      "chain_dir": "RICR/chain_35"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 36,
+      "chain_dir": "RICR/chain_36"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 37,
+      "chain_dir": "RICR/chain_37"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 38,
+      "chain_dir": "RICR/chain_38"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 39,
+      "chain_dir": "RICR/chain_39"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 40,
+      "chain_dir": "RICR/chain_40"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 41,
+      "chain_dir": "RICR/chain_41"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 42,
+      "chain_dir": "RICR/chain_42"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 43,
+      "chain_dir": "RICR/chain_43"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 44,
+      "chain_dir": "RICR/chain_44"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 45,
+      "chain_dir": "RICR/chain_45"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 46,
+      "chain_dir": "RICR/chain_46"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 47,
+      "chain_dir": "RICR/chain_47"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 48,
+      "chain_dir": "RICR/chain_48"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 49,
+      "chain_dir": "RICR/chain_49"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 50,
+      "chain_dir": "RICR/chain_50"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 51,
+      "chain_dir": "RICR/chain_51"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 52,
+      "chain_dir": "RICR/chain_52"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 53,
+      "chain_dir": "RICR/chain_53"
+    },
+    {
+      "cell_name": "RICR",
+      "chain_idx": 54,
+      "chain_dir": "RICR/chain_54"
+    }
+  ]
+}

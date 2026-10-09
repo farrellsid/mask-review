@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 0,
+      "chain_dir": "PVPL/chain_00"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 1,
+      "chain_dir": "PVPL/chain_01"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 2,
+      "chain_dir": "PVPL/chain_02"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 3,
+      "chain_dir": "PVPL/chain_03"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 4,
+      "chain_dir": "PVPL/chain_04"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 5,
+      "chain_dir": "PVPL/chain_05"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 6,
+      "chain_dir": "PVPL/chain_06"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 7,
+      "chain_dir": "PVPL/chain_07"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 8,
+      "chain_dir": "PVPL/chain_08"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 9,
+      "chain_dir": "PVPL/chain_09"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 10,
+      "chain_dir": "PVPL/chain_10"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 11,
+      "chain_dir": "PVPL/chain_11"
+    },
+    {
+      "cell_name": "PVPL",
+      "chain_idx": 12,
+      "chain_dir": "PVPL/chain_12"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 0,
+      "chain_dir": "PVPR/chain_00"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 1,
+      "chain_dir": "PVPR/chain_01"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 2,
+      "chain_dir": "PVPR/chain_02"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 3,
+      "chain_dir": "PVPR/chain_03"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 4,
+      "chain_dir": "PVPR/chain_04"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 5,
+      "chain_dir": "PVPR/chain_05"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 6,
+      "chain_dir": "PVPR/chain_06"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 7,
+      "chain_dir": "PVPR/chain_07"
+    },
+    {
+      "cell_name": "PVPR",
+      "chain_idx": 8,
+      "chain_dir": "PVPR/chain_08"
+    }
+  ]
+}

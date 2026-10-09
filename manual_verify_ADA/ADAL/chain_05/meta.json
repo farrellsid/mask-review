@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 3,
+  "cell_name": "ADAL",
+  "chain_idx": 5,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      4016.0,
+      5352.0
+    ],
+    "size_tif": [
+      1488,
+      1424
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1559,
+    1560
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:00:23+00:00"
+  }
+}

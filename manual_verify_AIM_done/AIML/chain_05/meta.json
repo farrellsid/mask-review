@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 9,
+  "cell_name": "AIML",
+  "chain_idx": 5,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      5592.0,
+      3544.0
+    ],
+    "size_tif": [
+      1744,
+      2104
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1486,
+    1495
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:00:55+00:00"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 36,
+  "cell_name": "AVHR",
+  "chain_idx": 0,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      4368.0,
+      4888.0
+    ],
+    "size_tif": [
+      2128,
+      2496
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1488,
+    1628
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:03:02+00:00"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 38,
+  "cell_name": "AVJR",
+  "chain_idx": 8,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      5264.0,
+      3752.0
+    ],
+    "size_tif": [
+      1360,
+      1320
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1450,
+    1458
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:03:10+00:00"
+  }
+}

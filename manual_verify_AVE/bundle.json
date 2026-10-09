@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 0,
+      "chain_dir": "AVEL/chain_00"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 1,
+      "chain_dir": "AVEL/chain_01"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 2,
+      "chain_dir": "AVEL/chain_02"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 3,
+      "chain_dir": "AVEL/chain_03"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 4,
+      "chain_dir": "AVEL/chain_04"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 5,
+      "chain_dir": "AVEL/chain_05"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 6,
+      "chain_dir": "AVEL/chain_06"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 7,
+      "chain_dir": "AVEL/chain_07"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 8,
+      "chain_dir": "AVEL/chain_08"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 9,
+      "chain_dir": "AVEL/chain_09"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 10,
+      "chain_dir": "AVEL/chain_10"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 11,
+      "chain_dir": "AVEL/chain_11"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 12,
+      "chain_dir": "AVEL/chain_12"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 13,
+      "chain_dir": "AVEL/chain_13"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 14,
+      "chain_dir": "AVEL/chain_14"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 15,
+      "chain_dir": "AVEL/chain_15"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 16,
+      "chain_dir": "AVEL/chain_16"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 17,
+      "chain_dir": "AVEL/chain_17"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 18,
+      "chain_dir": "AVEL/chain_18"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 19,
+      "chain_dir": "AVEL/chain_19"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 20,
+      "chain_dir": "AVEL/chain_20"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 21,
+      "chain_dir": "AVEL/chain_21"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 22,
+      "chain_dir": "AVEL/chain_22"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 23,
+      "chain_dir": "AVEL/chain_23"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 24,
+      "chain_dir": "AVEL/chain_24"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 25,
+      "chain_dir": "AVEL/chain_25"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 26,
+      "chain_dir": "AVEL/chain_26"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 27,
+      "chain_dir": "AVEL/chain_27"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 28,
+      "chain_dir": "AVEL/chain_28"
+    },
+    {
+      "cell_name": "AVEL",
+      "chain_idx": 29,
+      "chain_dir": "AVEL/chain_29"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 0,
+      "chain_dir": "AVER/chain_00"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 1,
+      "chain_dir": "AVER/chain_01"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 2,
+      "chain_dir": "AVER/chain_02"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 3,
+      "chain_dir": "AVER/chain_03"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 4,
+      "chain_dir": "AVER/chain_04"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 5,
+      "chain_dir": "AVER/chain_05"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 6,
+      "chain_dir": "AVER/chain_06"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 7,
+      "chain_dir": "AVER/chain_07"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 8,
+      "chain_dir": "AVER/chain_08"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 9,
+      "chain_dir": "AVER/chain_09"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 10,
+      "chain_dir": "AVER/chain_10"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 11,
+      "chain_dir": "AVER/chain_11"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 12,
+      "chain_dir": "AVER/chain_12"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 13,
+      "chain_dir": "AVER/chain_13"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 14,
+      "chain_dir": "AVER/chain_14"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 15,
+      "chain_dir": "AVER/chain_15"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 16,
+      "chain_dir": "AVER/chain_16"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 17,
+      "chain_dir": "AVER/chain_17"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 18,
+      "chain_dir": "AVER/chain_18"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 19,
+      "chain_dir": "AVER/chain_19"
+    },
+    {
+      "cell_name": "AVER",
+      "chain_idx": 20,
+      "chain_dir": "AVER/chain_20"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "neuron": "URAVR",
+  "chain_idx": 6,
+  "status": "flagged",
+  "anchor_node_id": 25489856,
+  "anchor_catmaid_z": 1400,
+  "anchor_frame_idx": 9,
+  "prompts": {
+    "points_sam": [
+      [
+        842.8038000000001,
+        870.3561999999993
+      ],
+      [
+        682.6922025000008,
+        924.4225124999994
+      ],
+      [
+        834.8418944999999,
+        1134.3379564999987
+      ],
+      [
+        868.1501203499997,
+        592.9239869499997
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      670.0,
+      569.0,
+      977.0,
+      1007.0
+    ]
+  },
+  "image_score": 0.6326725482940674,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 1,
+    "largest_cc_frac": 1.0,
+    "area_frac": 0.010777648277648278,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1391,
+    "1": 1392,
+    "2": 1393,
+    "3": 1394,
+    "4": 1395,
+    "5": 1396,
+    "6": 1397,
+    "7": 1398,
+    "8": 1399,
+    "9": 1400,
+    "10": 1401,
+    "11": 1402,
+    "12": 1403,
+    "13": 1404,
+    "14": 1405,
+    "15": 1406,
+    "16": 1407,
+    "17": 1408,
+    "18": 1409,
+    "19": 1410
+  },
+  "n_frames": 20,
+  "crop_window": {
+    "origin_tif": [
+      2672.0,
+      5088.0
+    ],
+    "size_tif": [
+      1560,
+      1584
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 20,
+    "n_flagged": 13,
+    "n_queue": 12,
+    "n_intervene": 13,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.65,
+    "queue_rate": 0.6,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1394,
+        "flag_count": 3,
+        "area_ratio": 0.02,
+        "temporal_iou": 0.02,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1395,
+        "flag_count": 3,
+        "area_ratio": 4.132,
+        "temporal_iou": 0.19,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1406,
+        "flag_count": 3,
+        "area_ratio": 14.227,
+        "temporal_iou": 0.07,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1393,
+        "flag_count": 2,
+        "area_ratio": 0.361,
+        "temporal_iou": 0.307,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1396,
+        "flag_count": 2,
+        "area_ratio": 23.812,
+        "temporal_iou": 0.042,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1397,
+        "flag_count": 2,
+        "area_ratio": 0.031,
+        "temporal_iou": 0.031,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1399,
+        "flag_count": 2,
+        "area_ratio": 3.384,
+        "temporal_iou": 0.0,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1400,
+        "flag_count": 2,
+        "area_ratio": 4.53,
+        "temporal_iou": 0.221,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1407,
+        "flag_count": 2,
+        "area_ratio": 0.003,
+        "temporal_iou": 0.003,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1408,
+        "flag_count": 2,
+        "area_ratio": 2.82,
+        "temporal_iou": 0.0,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1393,
+    1394,
+    1395,
+    1396,
+    1397,
+    1399,
+    1400,
+    1406,
+    1407,
+    1408,
+    1409,
+    1410
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_15",
+    "frames_root": "/localscratch/fsid.66224755.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.005671491147950292,
+    "load anchor frame": 0.40750891086645424,
+    "build prompts": 0.007685523014515638,
+    "image-mode prediction": 0.3510048531461507,
+    "box from mask": 0.19611459388397634,
+    "prepare video frames": 0.6083593771327287,
+    "per-slice re-seed": 7.83570508682169,
+    "save masks": 0.08749959012493491,
+    "qc + flag": 0.5579883728642017
+  },
+  "phase_subseconds": {}
+}

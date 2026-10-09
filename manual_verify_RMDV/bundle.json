@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 0,
+      "chain_dir": "RMDVL/chain_00"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 1,
+      "chain_dir": "RMDVL/chain_01"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 2,
+      "chain_dir": "RMDVL/chain_02"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 3,
+      "chain_dir": "RMDVL/chain_03"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 4,
+      "chain_dir": "RMDVL/chain_04"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 5,
+      "chain_dir": "RMDVL/chain_05"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 6,
+      "chain_dir": "RMDVL/chain_06"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 7,
+      "chain_dir": "RMDVL/chain_07"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 8,
+      "chain_dir": "RMDVL/chain_08"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 9,
+      "chain_dir": "RMDVL/chain_09"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 10,
+      "chain_dir": "RMDVL/chain_10"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 11,
+      "chain_dir": "RMDVL/chain_11"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 12,
+      "chain_dir": "RMDVL/chain_12"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 13,
+      "chain_dir": "RMDVL/chain_13"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 14,
+      "chain_dir": "RMDVL/chain_14"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 15,
+      "chain_dir": "RMDVL/chain_15"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 16,
+      "chain_dir": "RMDVL/chain_16"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 17,
+      "chain_dir": "RMDVL/chain_17"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 18,
+      "chain_dir": "RMDVL/chain_18"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 19,
+      "chain_dir": "RMDVL/chain_19"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 20,
+      "chain_dir": "RMDVL/chain_20"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 21,
+      "chain_dir": "RMDVL/chain_21"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 22,
+      "chain_dir": "RMDVL/chain_22"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 23,
+      "chain_dir": "RMDVL/chain_23"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 24,
+      "chain_dir": "RMDVL/chain_24"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 25,
+      "chain_dir": "RMDVL/chain_25"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 26,
+      "chain_dir": "RMDVL/chain_26"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 27,
+      "chain_dir": "RMDVL/chain_27"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 28,
+      "chain_dir": "RMDVL/chain_28"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 29,
+      "chain_dir": "RMDVL/chain_29"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 30,
+      "chain_dir": "RMDVL/chain_30"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 31,
+      "chain_dir": "RMDVL/chain_31"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 32,
+      "chain_dir": "RMDVL/chain_32"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 33,
+      "chain_dir": "RMDVL/chain_33"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 34,
+      "chain_dir": "RMDVL/chain_34"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 35,
+      "chain_dir": "RMDVL/chain_35"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 36,
+      "chain_dir": "RMDVL/chain_36"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 37,
+      "chain_dir": "RMDVL/chain_37"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 38,
+      "chain_dir": "RMDVL/chain_38"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 39,
+      "chain_dir": "RMDVL/chain_39"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 40,
+      "chain_dir": "RMDVL/chain_40"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 41,
+      "chain_dir": "RMDVL/chain_41"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 42,
+      "chain_dir": "RMDVL/chain_42"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 43,
+      "chain_dir": "RMDVL/chain_43"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 44,
+      "chain_dir": "RMDVL/chain_44"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 45,
+      "chain_dir": "RMDVL/chain_45"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 46,
+      "chain_dir": "RMDVL/chain_46"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 47,
+      "chain_dir": "RMDVL/chain_47"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 48,
+      "chain_dir": "RMDVL/chain_48"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 49,
+      "chain_dir": "RMDVL/chain_49"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 50,
+      "chain_dir": "RMDVL/chain_50"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 51,
+      "chain_dir": "RMDVL/chain_51"
+    },
+    {
+      "cell_name": "RMDVL",
+      "chain_idx": 52,
+      "chain_dir": "RMDVL/chain_52"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 0,
+      "chain_dir": "RMDVR/chain_00"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 1,
+      "chain_dir": "RMDVR/chain_01"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 2,
+      "chain_dir": "RMDVR/chain_02"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 3,
+      "chain_dir": "RMDVR/chain_03"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 4,
+      "chain_dir": "RMDVR/chain_04"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 5,
+      "chain_dir": "RMDVR/chain_05"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 6,
+      "chain_dir": "RMDVR/chain_06"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 7,
+      "chain_dir": "RMDVR/chain_07"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 8,
+      "chain_dir": "RMDVR/chain_08"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 9,
+      "chain_dir": "RMDVR/chain_09"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 10,
+      "chain_dir": "RMDVR/chain_10"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 11,
+      "chain_dir": "RMDVR/chain_11"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 12,
+      "chain_dir": "RMDVR/chain_12"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 13,
+      "chain_dir": "RMDVR/chain_13"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 14,
+      "chain_dir": "RMDVR/chain_14"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 15,
+      "chain_dir": "RMDVR/chain_15"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 16,
+      "chain_dir": "RMDVR/chain_16"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 17,
+      "chain_dir": "RMDVR/chain_17"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 18,
+      "chain_dir": "RMDVR/chain_18"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 19,
+      "chain_dir": "RMDVR/chain_19"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 20,
+      "chain_dir": "RMDVR/chain_20"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 21,
+      "chain_dir": "RMDVR/chain_21"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 22,
+      "chain_dir": "RMDVR/chain_22"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 23,
+      "chain_dir": "RMDVR/chain_23"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 24,
+      "chain_dir": "RMDVR/chain_24"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 25,
+      "chain_dir": "RMDVR/chain_25"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 26,
+      "chain_dir": "RMDVR/chain_26"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 27,
+      "chain_dir": "RMDVR/chain_27"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 28,
+      "chain_dir": "RMDVR/chain_28"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 29,
+      "chain_dir": "RMDVR/chain_29"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 30,
+      "chain_dir": "RMDVR/chain_30"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 31,
+      "chain_dir": "RMDVR/chain_31"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 32,
+      "chain_dir": "RMDVR/chain_32"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 33,
+      "chain_dir": "RMDVR/chain_33"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 34,
+      "chain_dir": "RMDVR/chain_34"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 35,
+      "chain_dir": "RMDVR/chain_35"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 36,
+      "chain_dir": "RMDVR/chain_36"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 37,
+      "chain_dir": "RMDVR/chain_37"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 38,
+      "chain_dir": "RMDVR/chain_38"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 39,
+      "chain_dir": "RMDVR/chain_39"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 40,
+      "chain_dir": "RMDVR/chain_40"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 41,
+      "chain_dir": "RMDVR/chain_41"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 42,
+      "chain_dir": "RMDVR/chain_42"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 43,
+      "chain_dir": "RMDVR/chain_43"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 44,
+      "chain_dir": "RMDVR/chain_44"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 45,
+      "chain_dir": "RMDVR/chain_45"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 46,
+      "chain_dir": "RMDVR/chain_46"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 47,
+      "chain_dir": "RMDVR/chain_47"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 48,
+      "chain_dir": "RMDVR/chain_48"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 49,
+      "chain_dir": "RMDVR/chain_49"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 50,
+      "chain_dir": "RMDVR/chain_50"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 51,
+      "chain_dir": "RMDVR/chain_51"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 52,
+      "chain_dir": "RMDVR/chain_52"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 53,
+      "chain_dir": "RMDVR/chain_53"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 54,
+      "chain_dir": "RMDVR/chain_54"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 55,
+      "chain_dir": "RMDVR/chain_55"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 56,
+      "chain_dir": "RMDVR/chain_56"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 57,
+      "chain_dir": "RMDVR/chain_57"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 58,
+      "chain_dir": "RMDVR/chain_58"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 59,
+      "chain_dir": "RMDVR/chain_59"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 60,
+      "chain_dir": "RMDVR/chain_60"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 61,
+      "chain_dir": "RMDVR/chain_61"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 62,
+      "chain_dir": "RMDVR/chain_62"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 63,
+      "chain_dir": "RMDVR/chain_63"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 64,
+      "chain_dir": "RMDVR/chain_64"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 65,
+      "chain_dir": "RMDVR/chain_65"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 66,
+      "chain_dir": "RMDVR/chain_66"
+    },
+    {
+      "cell_name": "RMDVR",
+      "chain_idx": 67,
+      "chain_dir": "RMDVR/chain_67"
+    }
+  ]
+}

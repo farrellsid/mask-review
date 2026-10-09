@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 110,
+  "cell_name": "PVCR",
+  "chain_idx": 16,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3968.0,
+      1944.0
+    ],
+    "size_tif": [
+      1352,
+      1368
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1405,
+    1410
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-09T18:04:15+00:00"
+  }
+}

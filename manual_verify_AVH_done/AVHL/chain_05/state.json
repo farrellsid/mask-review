@@ -1,0 +1,166 @@
+{
+  "neuron": "AVHL",
+  "chain_idx": 5,
+  "status": "done",
+  "anchor_node_id": 25434560,
+  "anchor_catmaid_z": 1479,
+  "anchor_frame_idx": 1,
+  "prompts": {
+    "points_sam": [
+      [
+        622.7753380499998,
+        875.8173028499996
+      ],
+      [
+        473.84238749999986,
+        999.8020874999993
+      ],
+      [
+        778.6861499500005,
+        755.7277581499993
+      ],
+      [
+        774.3716549999999,
+        1127.5217349999994
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      436.0,
+      568.0,
+      829.0,
+      1407.0
+    ]
+  },
+  "image_score": 0.7702468037605286,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 63,
+    "largest_cc_frac": 0.9938387037497433,
+    "area_frac": 0.04004974995151414,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1478,
+    "1": 1479,
+    "2": 1480
+  },
+  "n_frames": 3,
+  "crop_window": {
+    "origin_tif": [
+      1664.0,
+      3968.0
+    ],
+    "size_tif": [
+      1272,
+      1816
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 3,
+    "n_flagged": 0,
+    "n_queue": 0,
+    "n_intervene": 0,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.0,
+    "queue_rate": 0.0,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": []
+  },
+  "triage_frames": [],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_1",
+    "frames_root": "/localscratch/fsid.66218130.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.005190909840166569,
+    "load anchor frame": 0.2454412179067731,
+    "build prompts": 0.007263181731104851,
+    "image-mode prediction": 0.3479783432558179,
+    "box from mask": 0.1988838091492653,
+    "prepare video frames": 0.3026704369112849,
+    "per-slice re-seed": 1.1351893115788698,
+    "save masks": 0.046089804731309414,
+    "qc + flag": 0.08976200595498085
+  },
+  "phase_subseconds": {}
+}

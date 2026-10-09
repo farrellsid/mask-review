@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 0,
+      "chain_dir": "AVBL/chain_00"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 1,
+      "chain_dir": "AVBL/chain_01"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 2,
+      "chain_dir": "AVBL/chain_02"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 3,
+      "chain_dir": "AVBL/chain_03"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 4,
+      "chain_dir": "AVBL/chain_04"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 5,
+      "chain_dir": "AVBL/chain_05"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 6,
+      "chain_dir": "AVBL/chain_06"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 7,
+      "chain_dir": "AVBL/chain_07"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 8,
+      "chain_dir": "AVBL/chain_08"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 9,
+      "chain_dir": "AVBL/chain_09"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 10,
+      "chain_dir": "AVBL/chain_10"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 11,
+      "chain_dir": "AVBL/chain_11"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 12,
+      "chain_dir": "AVBL/chain_12"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 13,
+      "chain_dir": "AVBL/chain_13"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 14,
+      "chain_dir": "AVBL/chain_14"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 15,
+      "chain_dir": "AVBL/chain_15"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 16,
+      "chain_dir": "AVBL/chain_16"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 17,
+      "chain_dir": "AVBL/chain_17"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 18,
+      "chain_dir": "AVBL/chain_18"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 19,
+      "chain_dir": "AVBL/chain_19"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 20,
+      "chain_dir": "AVBL/chain_20"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 21,
+      "chain_dir": "AVBL/chain_21"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 22,
+      "chain_dir": "AVBL/chain_22"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 23,
+      "chain_dir": "AVBL/chain_23"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 24,
+      "chain_dir": "AVBL/chain_24"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 25,
+      "chain_dir": "AVBL/chain_25"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 26,
+      "chain_dir": "AVBL/chain_26"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 27,
+      "chain_dir": "AVBL/chain_27"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 28,
+      "chain_dir": "AVBL/chain_28"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 29,
+      "chain_dir": "AVBL/chain_29"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 30,
+      "chain_dir": "AVBL/chain_30"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 31,
+      "chain_dir": "AVBL/chain_31"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 32,
+      "chain_dir": "AVBL/chain_32"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 33,
+      "chain_dir": "AVBL/chain_33"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 34,
+      "chain_dir": "AVBL/chain_34"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 35,
+      "chain_dir": "AVBL/chain_35"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 36,
+      "chain_dir": "AVBL/chain_36"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 37,
+      "chain_dir": "AVBL/chain_37"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 38,
+      "chain_dir": "AVBL/chain_38"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 39,
+      "chain_dir": "AVBL/chain_39"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 40,
+      "chain_dir": "AVBL/chain_40"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 41,
+      "chain_dir": "AVBL/chain_41"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 42,
+      "chain_dir": "AVBL/chain_42"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 43,
+      "chain_dir": "AVBL/chain_43"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 44,
+      "chain_dir": "AVBL/chain_44"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 45,
+      "chain_dir": "AVBL/chain_45"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 46,
+      "chain_dir": "AVBL/chain_46"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 47,
+      "chain_dir": "AVBL/chain_47"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 48,
+      "chain_dir": "AVBL/chain_48"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 49,
+      "chain_dir": "AVBL/chain_49"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 50,
+      "chain_dir": "AVBL/chain_50"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 51,
+      "chain_dir": "AVBL/chain_51"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 52,
+      "chain_dir": "AVBL/chain_52"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 53,
+      "chain_dir": "AVBL/chain_53"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 54,
+      "chain_dir": "AVBL/chain_54"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 55,
+      "chain_dir": "AVBL/chain_55"
+    },
+    {
+      "cell_name": "AVBL",
+      "chain_idx": 56,
+      "chain_dir": "AVBL/chain_56"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 0,
+      "chain_dir": "AVBR/chain_00"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 1,
+      "chain_dir": "AVBR/chain_01"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 2,
+      "chain_dir": "AVBR/chain_02"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 3,
+      "chain_dir": "AVBR/chain_03"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 4,
+      "chain_dir": "AVBR/chain_04"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 5,
+      "chain_dir": "AVBR/chain_05"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 6,
+      "chain_dir": "AVBR/chain_06"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 7,
+      "chain_dir": "AVBR/chain_07"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 8,
+      "chain_dir": "AVBR/chain_08"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 9,
+      "chain_dir": "AVBR/chain_09"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 10,
+      "chain_dir": "AVBR/chain_10"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 11,
+      "chain_dir": "AVBR/chain_11"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 12,
+      "chain_dir": "AVBR/chain_12"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 13,
+      "chain_dir": "AVBR/chain_13"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 14,
+      "chain_dir": "AVBR/chain_14"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 15,
+      "chain_dir": "AVBR/chain_15"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 16,
+      "chain_dir": "AVBR/chain_16"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 17,
+      "chain_dir": "AVBR/chain_17"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 18,
+      "chain_dir": "AVBR/chain_18"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 19,
+      "chain_dir": "AVBR/chain_19"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 20,
+      "chain_dir": "AVBR/chain_20"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 21,
+      "chain_dir": "AVBR/chain_21"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 22,
+      "chain_dir": "AVBR/chain_22"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 23,
+      "chain_dir": "AVBR/chain_23"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 24,
+      "chain_dir": "AVBR/chain_24"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 25,
+      "chain_dir": "AVBR/chain_25"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 26,
+      "chain_dir": "AVBR/chain_26"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 27,
+      "chain_dir": "AVBR/chain_27"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 28,
+      "chain_dir": "AVBR/chain_28"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 29,
+      "chain_dir": "AVBR/chain_29"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 30,
+      "chain_dir": "AVBR/chain_30"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 31,
+      "chain_dir": "AVBR/chain_31"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 32,
+      "chain_dir": "AVBR/chain_32"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 33,
+      "chain_dir": "AVBR/chain_33"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 34,
+      "chain_dir": "AVBR/chain_34"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 35,
+      "chain_dir": "AVBR/chain_35"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 36,
+      "chain_dir": "AVBR/chain_36"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 37,
+      "chain_dir": "AVBR/chain_37"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 38,
+      "chain_dir": "AVBR/chain_38"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 39,
+      "chain_dir": "AVBR/chain_39"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 40,
+      "chain_dir": "AVBR/chain_40"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 41,
+      "chain_dir": "AVBR/chain_41"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 42,
+      "chain_dir": "AVBR/chain_42"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 43,
+      "chain_dir": "AVBR/chain_43"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 44,
+      "chain_dir": "AVBR/chain_44"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 45,
+      "chain_dir": "AVBR/chain_45"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 46,
+      "chain_dir": "AVBR/chain_46"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 47,
+      "chain_dir": "AVBR/chain_47"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 48,
+      "chain_dir": "AVBR/chain_48"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 49,
+      "chain_dir": "AVBR/chain_49"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 50,
+      "chain_dir": "AVBR/chain_50"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 51,
+      "chain_dir": "AVBR/chain_51"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 52,
+      "chain_dir": "AVBR/chain_52"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 53,
+      "chain_dir": "AVBR/chain_53"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 54,
+      "chain_dir": "AVBR/chain_54"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 55,
+      "chain_dir": "AVBR/chain_55"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 56,
+      "chain_dir": "AVBR/chain_56"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 57,
+      "chain_dir": "AVBR/chain_57"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 58,
+      "chain_dir": "AVBR/chain_58"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 59,
+      "chain_dir": "AVBR/chain_59"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 60,
+      "chain_dir": "AVBR/chain_60"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 61,
+      "chain_dir": "AVBR/chain_61"
+    },
+    {
+      "cell_name": "AVBR",
+      "chain_idx": 62,
+      "chain_dir": "AVBR/chain_62"
+    }
+  ]
+}

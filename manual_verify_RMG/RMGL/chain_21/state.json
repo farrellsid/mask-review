@@ -1,0 +1,222 @@
+{
+  "neuron": "RMGL",
+  "chain_idx": 21,
+  "status": "flagged",
+  "anchor_node_id": 25458806,
+  "anchor_catmaid_z": 1369,
+  "anchor_frame_idx": 12,
+  "prompts": {
+    "points_sam": [
+      [
+        675.8730525000001,
+        1003.5971625000002
+      ],
+      [
+        528.6256850999998,
+        1036.2717286999987
+      ],
+      [
+        491.7234251000009,
+        869.4277086999991
+      ],
+      [
+        441.7612751000006,
+        1079.4353586999987
+      ]
+    ],
+    "labels": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "box_sam": [
+      461.0,
+      749.0,
+      847.0,
+      1241.0
+    ]
+  },
+  "image_score": 0.9170683026313782,
+  "anchor_score": {
+    "contained": true,
+    "n_components": 3,
+    "largest_cc_frac": 0.9994416855220241,
+    "area_frac": 0.014807417850181009,
+    "passed": true,
+    "reasons": []
+  },
+  "frames_dir": null,
+  "frame_to_z": {
+    "0": 1357,
+    "1": 1358,
+    "2": 1359,
+    "3": 1360,
+    "4": 1361,
+    "5": 1362,
+    "6": 1363,
+    "7": 1364,
+    "8": 1365,
+    "9": 1366,
+    "10": 1367,
+    "11": 1368,
+    "12": 1369,
+    "13": 1370,
+    "14": 1371,
+    "15": 1372,
+    "16": 1373,
+    "17": 1374,
+    "18": 1375,
+    "19": 1376,
+    "20": 1377,
+    "21": 1378,
+    "22": 1379,
+    "23": 1380,
+    "24": 1381
+  },
+  "n_frames": 25,
+  "crop_window": {
+    "origin_tif": [
+      4712.0,
+      3336.0
+    ],
+    "size_tif": [
+      1368,
+      1680
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "fell_back_to_sam": false,
+  "fellback_reason": null,
+  "crop_image_score": null,
+  "crop_anchor_score": null,
+  "qc_summary": {
+    "n_frames": 25,
+    "n_flagged": 4,
+    "n_queue": 4,
+    "n_intervene": 4,
+    "n_missing_skel": 0,
+    "n_skel_not_assessable": 0,
+    "flag_rate": 0.16,
+    "queue_rate": 0.16,
+    "thresholds": {
+      "area_ratio_bounds": [
+        0.5,
+        2.0
+      ],
+      "temporal_iou_min": 0.3,
+      "pred_iou_min": 0.3,
+      "skeleton_dilation_px": 3,
+      "triage_min_signals": 2
+    },
+    "worst_frames": [
+      {
+        "z": 1378,
+        "flag_count": 3,
+        "area_ratio": 0.012,
+        "temporal_iou": 0.012,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1381,
+        "flag_count": 3,
+        "area_ratio": 44.266,
+        "temporal_iou": 0.023,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1379,
+        "flag_count": 2,
+        "area_ratio": 112.688,
+        "temporal_iou": 0.009,
+        "skeleton_contained": true
+      },
+      {
+        "z": 1380,
+        "flag_count": 2,
+        "area_ratio": 0.043,
+        "temporal_iou": 0.043,
+        "skeleton_contained": true
+      }
+    ]
+  },
+  "triage_frames": [
+    1378,
+    1379,
+    1380,
+    1381
+  ],
+  "obj_id": 1,
+  "config": {
+    "backend": "sam3",
+    "sam3_checkpoint": "/home/fsid/projects/def-mzhen/fsid/sam3_checkpoint",
+    "model_size": "large",
+    "scale": 8,
+    "save_downscale": 8,
+    "image_size": null,
+    "k_max_neg": 3,
+    "neg_radius": 150,
+    "box_margin": 10,
+    "qc_area_ratio_bounds": [
+      0.5,
+      2.0
+    ],
+    "qc_temporal_iou_min": 0.3,
+    "qc_pred_iou_min": 0.3,
+    "qc_skeleton_dilation_px": 3,
+    "qc_intervene_to_flag_chain": 1,
+    "gate_min_area_frac": 1e-05,
+    "gate_max_area_frac": 0.4,
+    "gate_min_largest_cc_frac": 0.8,
+    "crop_anchor": true,
+    "crop_size_tif": 1200,
+    "crop_scale": 2,
+    "chain_crop": true,
+    "chain_crop_pad_tif": 512,
+    "chain_crop_scale": 1,
+    "chain_crop_max_px": 2048,
+    "chain_crop_min_tif": 1024,
+    "chain_crop_collapse_size_tif": 1024,
+    "chain_crop_from_mask": true,
+    "chain_crop_fallback": true,
+    "chain_crop_min_image_score": 0.0,
+    "multimask_anchor": false,
+    "multimask_exclude_neg": false,
+    "multimask_generous": false,
+    "output_root": "/scratch/fsid/target_perslice_only_guard_sam3/chunk_2",
+    "frames_root": "/localscratch/fsid.66218131.0/frames",
+    "seed_box": "fixed",
+    "seed_points": true,
+    "seed_negatives": true,
+    "seed_mask": false,
+    "box_margin_frac": 0.0,
+    "tier2_k_max_neg": null,
+    "tier2_seed_negatives": null,
+    "tier2_multimask_generous": null,
+    "per_slice_reseed": true,
+    "blowup_guard": true,
+    "blowup_area_factor": 25.0,
+    "postprocess_masks": false,
+    "postproc_open_px": 1,
+    "postproc_close_px": 1,
+    "postproc_keep_largest_cc": true,
+    "postproc_fill_holes": true,
+    "postproc_remove_islands_min_size": 0,
+    "postproc_fill_small_holes_area": 0,
+    "postproc_smooth_radius": 0,
+    "qc_triage_min_signals": 2
+  },
+  "phase_seconds": {
+    "select anchor": 0.0051855724304914474,
+    "load anchor frame": 0.45875920355319977,
+    "build prompts": 0.007104098796844482,
+    "image-mode prediction": 0.3481932207942009,
+    "box from mask": 0.19086921028792858,
+    "prepare video frames": 0.9265538565814495,
+    "per-slice re-seed": 9.594237959943712,
+    "save masks": 0.4554681535810232,
+    "qc + flag": 0.6414798302575946
+  },
+  "phase_subseconds": {}
+}

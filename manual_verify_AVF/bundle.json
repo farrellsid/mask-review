@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "source_tree": "target_perslice_only_guard_sam3_merged",
+  "chains": [
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 0,
+      "chain_dir": "AVFL/chain_00"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 1,
+      "chain_dir": "AVFL/chain_01"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 2,
+      "chain_dir": "AVFL/chain_02"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 3,
+      "chain_dir": "AVFL/chain_03"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 4,
+      "chain_dir": "AVFL/chain_04"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 5,
+      "chain_dir": "AVFL/chain_05"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 6,
+      "chain_dir": "AVFL/chain_06"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 7,
+      "chain_dir": "AVFL/chain_07"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 8,
+      "chain_dir": "AVFL/chain_08"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 9,
+      "chain_dir": "AVFL/chain_09"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 10,
+      "chain_dir": "AVFL/chain_10"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 11,
+      "chain_dir": "AVFL/chain_11"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 12,
+      "chain_dir": "AVFL/chain_12"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 13,
+      "chain_dir": "AVFL/chain_13"
+    },
+    {
+      "cell_name": "AVFL",
+      "chain_idx": 14,
+      "chain_dir": "AVFL/chain_14"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 0,
+      "chain_dir": "AVFR/chain_00"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 1,
+      "chain_dir": "AVFR/chain_01"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 2,
+      "chain_dir": "AVFR/chain_02"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 3,
+      "chain_dir": "AVFR/chain_03"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 4,
+      "chain_dir": "AVFR/chain_04"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 5,
+      "chain_dir": "AVFR/chain_05"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 6,
+      "chain_dir": "AVFR/chain_06"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 7,
+      "chain_dir": "AVFR/chain_07"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 8,
+      "chain_dir": "AVFR/chain_08"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 9,
+      "chain_dir": "AVFR/chain_09"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 10,
+      "chain_dir": "AVFR/chain_10"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 11,
+      "chain_dir": "AVFR/chain_11"
+    },
+    {
+      "cell_name": "AVFR",
+      "chain_idx": 12,
+      "chain_dir": "AVFR/chain_12"
+    }
+  ]
+}
