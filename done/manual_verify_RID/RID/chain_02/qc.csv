@@ -1,0 +1,3 @@
+z,area,centroid_y,centroid_x,n_components,skeleton_contained,area_ratio,centroid_jump,temporal_iou,pred_iou,flag_count,flag,intervene,logit_conf,queue
+1445,117075,459.4899850523169,588.9727525090753,55,True,,,,0.9453125,0,False,False,0.888016614913742,False
+1446,136249,480.2556202247356,572.2715175891199,8,True,1.163775357676703,26.648505623496646,0.8231043813691059,0.94921875,0,False,False,0.885295724370504,False
