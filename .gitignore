@@ -10,6 +10,12 @@
 frames/
 *.jpg
 
+# view_neurons.py's local cache (masks, meshes, and now a per-machine EM-stack
+# snapshot for its "EM stack (quick)" toggle). Same reasoning as frames/ above:
+# real image data, machine-specific (keyed to this machine's own WORM_PATH), and
+# cheap to rebuild, so it never belongs in git.
+.view_package/
+
 # Local scratch
 __pycache__/
 .DS_Store
