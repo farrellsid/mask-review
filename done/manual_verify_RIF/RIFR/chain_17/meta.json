@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 130,
+  "cell_name": "RIFR",
+  "chain_idx": 17,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3000.0,
+      6560.0
+    ],
+    "size_tif": [
+      1160,
+      1184
+    ],
+    "crop_scale": 1,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1544,
+    1545
+  ],
+  "mask_scale": 1,
+  "provenance": {
+    "source_tree": "reprop_maskseed_2026-10-13",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-14T12:27:26+00:00"
+  }
+}
