@@ -41,7 +41,7 @@
     "passed": true,
     "reasons": []
   },
-  "frames_dir": null,
+  "frames_dir": "frames",
   "frame_to_z": {
     "0": 1551,
     "1": 1552,

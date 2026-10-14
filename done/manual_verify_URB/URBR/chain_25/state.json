@@ -8,7 +8,7 @@
   "prompts": null,
   "image_score": null,
   "anchor_score": null,
-  "frames_dir": null,
+  "frames_dir": "frames",
   "frame_to_z": {
     "0": 1416,
     "1": 1417,

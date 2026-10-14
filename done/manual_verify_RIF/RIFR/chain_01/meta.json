@@ -22,9 +22,9 @@
   ],
   "mask_scale": 1,
   "provenance": {
-    "source_tree": "reprop_maskseed_2026-10-13",
+    "source_tree": "manual_verify_RIF",
     "backend": "sam2",
     "reprop_variant": null,
-    "exported": "2026-10-14T12:27:26+00:00"
+    "exported": "2026-10-14T14:28:01+00:00"
   }
 }

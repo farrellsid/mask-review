@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "source_tree": "reprop_maskseed_2026-10-13",
+  "source_tree": "manual_verify_RIA",
   "chains": [
     {
       "cell_name": "RIAL",
@@ -29,8 +29,18 @@
     },
     {
       "cell_name": "RIAL",
+      "chain_idx": 5,
+      "chain_dir": "RIAL/chain_05"
+    },
+    {
+      "cell_name": "RIAL",
       "chain_idx": 6,
       "chain_dir": "RIAL/chain_06"
+    },
+    {
+      "cell_name": "RIAL",
+      "chain_idx": 7,
+      "chain_dir": "RIAL/chain_07"
     },
     {
       "cell_name": "RIAL",
@@ -49,8 +59,18 @@
     },
     {
       "cell_name": "RIAL",
+      "chain_idx": 11,
+      "chain_dir": "RIAL/chain_11"
+    },
+    {
+      "cell_name": "RIAL",
       "chain_idx": 12,
       "chain_dir": "RIAL/chain_12"
+    },
+    {
+      "cell_name": "RIAL",
+      "chain_idx": 13,
+      "chain_dir": "RIAL/chain_13"
     },
     {
       "cell_name": "RIAL",
@@ -109,6 +129,11 @@
     },
     {
       "cell_name": "RIAL",
+      "chain_idx": 25,
+      "chain_dir": "RIAL/chain_25"
+    },
+    {
+      "cell_name": "RIAL",
       "chain_idx": 26,
       "chain_dir": "RIAL/chain_26"
     },
@@ -136,6 +161,11 @@
       "cell_name": "RIAL",
       "chain_idx": 31,
       "chain_dir": "RIAL/chain_31"
+    },
+    {
+      "cell_name": "RIAL",
+      "chain_idx": 32,
+      "chain_dir": "RIAL/chain_32"
     },
     {
       "cell_name": "RIAL",
@@ -211,6 +241,11 @@
       "cell_name": "RIAR",
       "chain_idx": 10,
       "chain_dir": "RIAR/chain_10"
+    },
+    {
+      "cell_name": "RIAR",
+      "chain_idx": 11,
+      "chain_dir": "RIAR/chain_11"
     },
     {
       "cell_name": "RIAR",
