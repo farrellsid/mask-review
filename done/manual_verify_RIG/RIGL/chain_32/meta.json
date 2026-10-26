@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 131,
+  "cell_name": "RIGL",
+  "chain_idx": 32,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3662.0,
+      1308.0
+    ],
+    "size_tif": [
+      2966,
+      2084
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1371,
+    1371
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "manual_verify_RIG",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-26T20:05:11+00:00"
+  }
+}
