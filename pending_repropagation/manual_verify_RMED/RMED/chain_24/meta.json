@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 148,
+  "cell_name": "RMED",
+  "chain_idx": 24,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      3312.0,
+      1396.0
+    ],
+    "size_tif": [
+      1970,
+      2258
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1332,
+    1333
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-28T17:35:17+00:00"
+  }
+}
