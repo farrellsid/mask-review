@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "neuron_id": 154,
+  "cell_name": "RMGL",
+  "chain_idx": 16,
+  "mask_space": "_pcrop",
+  "crop_window": {
+    "origin_tif": [
+      6106.0,
+      4176.0
+    ],
+    "size_tif": [
+      190,
+      556
+    ],
+    "crop_scale": 2,
+    "sam_scale": 8
+  },
+  "z_range": [
+    1409,
+    1418
+  ],
+  "mask_scale": 2,
+  "provenance": {
+    "source_tree": "target_perslice_only_guard_sam3_merged",
+    "backend": "sam2",
+    "reprop_variant": null,
+    "exported": "2026-10-27T17:47:39+00:00"
+  }
+}
